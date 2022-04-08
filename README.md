@@ -58,3 +58,8 @@ Features Used in Modeling = ['bathrooms', 'bedrooms', 'building_quality', 'home_
 | logitude          | float64    | Longitude of the middle of the parcel                                         |
 | logerror          | float64    | Zestimate error score                                                         |
  
+
+# Instructions to Replicate My Work
+1. Clone this repository
+2. Add your own env.py file for server credentials
+3. Run the cells in final_notebook.ipynb
